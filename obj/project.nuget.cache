@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2Mlgrtt/3I=",
+  "success": true,
+  "projectFilePath": "/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/Inventory.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardglez/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/leonardglez/.nuget/packages/microsoft.windowsdesktop.app.ref/6.0.33/microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "/Users/leonardglez/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/leonardglez/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.33/microsoft.netcore.app.host.osx-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

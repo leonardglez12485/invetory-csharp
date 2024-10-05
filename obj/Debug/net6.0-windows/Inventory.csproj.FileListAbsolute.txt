@@ -1,0 +1,16 @@
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/net6.0-windows/Inventory
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/net6.0-windows/Inventory.deps.json
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/net6.0-windows/Inventory.runtimeconfig.json
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/net6.0-windows/Inventory.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/net6.0-windows/Inventory.pdb
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.Form1.resources
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.csproj.GenerateResource.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.AssemblyInfoInputs.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.AssemblyInfo.cs
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.csproj.CoreCompileInputs.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/refint/Inventory.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.pdb
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/Inventory.genruntimeconfig.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/net6.0-windows/ref/Inventory.dll

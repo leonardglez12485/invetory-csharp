@@ -1,0 +1,15 @@
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/netcoreapp3.0/Inventory
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/netcoreapp3.0/Inventory.deps.json
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/netcoreapp3.0/Inventory.runtimeconfig.json
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/netcoreapp3.0/Inventory.runtimeconfig.dev.json
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/netcoreapp3.0/Inventory.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/bin/Debug/netcoreapp3.0/Inventory.pdb
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.Form1.resources
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.csproj.GenerateResource.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.AssemblyInfoInputs.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.AssemblyInfo.cs
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.csproj.CoreCompileInputs.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.pdb
+/Users/leonardglez/Documents/Desarrollo/C#/Project/Inventory/obj/Debug/netcoreapp3.0/Inventory.genruntimeconfig.cache
